@@ -53,3 +53,22 @@ Aug 1999 – Jul 2003 | Tashkent, Uzbekistan
 
 
 ## Certificates
+- [Professional Scrum Master I](https://www.scrum.org/user/318902) by Scrum.org (Feb 2018)
+- [AWS Certified Developer](http://ude.my/UC-IJFFBB63) by Udemy (Nov 2016)
+- Searching and Reporting with Splunk by Splunk University (Oct 2016)
+- Using Splunk 6.4 by Splunk University (Oct 2016)
+- Introduction to Game Development with Unity3D by Michigan State University at Coursera.org (Feb 2016)
+- [Principles of Reactive Programming](http://coursera.org/verify/DWLNB8THKY) by École polytechnique fédérale de Lausanne at Coursera.org (Jun 2015)
+- [M101N: MongoDB for .NET Developers](http://education.mongodb.com/downloads/certificates/cb50f02786e04395bba13ee154d879d8/Certificate.pdf) by MongoDB, Inc. (May 2015)
+- [Functional Programming Principles in Scala](http://coursera.org/verify/GFTP3WGR7M) by École polytechnique fédérale de Lausanne at Coursera.org (Dec 2014)
+- [M101JS: MongoDB for Node.js Developers](http://education.mongodb.com/downloads/certificates/16019498e96f40ed9f4dbb0b41c864fb/Certificate.pdf) by MongoDB, Inc. (Jul 2014)
+- Yellow Belt in Disciplined Agile Delivery (DAD) Framework by Disciplined Agile Consortium (Mar 2014)
+- MCPD: Web Developer 4 by Microsoft (Jul 2011)
+- MCPD: Windows® Developer 4 by Microsoft (Jul 2011)
+- MCTS: SQL Server® 2008, Database Development (Jul 2011)
+- MCTS: .NET Framework 4, Web Applications by Microsoft (Jul 2011)
+- MCTS: .NET Framework 4, Windows® Applications by Microsoft (Jun 2011)
+- MCTS: .NET Framework 4, Service Communication Applications by Microsoft (May 2011)
+- MCTS: .NET Framework 4, Data Access by Microsoft (Mar 2011)
+- MCTS: .NET Framework 3.5, ASP.NET Applications by Microsoft (May 2010)
+- Human Resource Management and Development by The Uzbekistan-Japan Center for Human Development (Aug 2009)
