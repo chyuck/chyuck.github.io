@@ -42,6 +42,11 @@ Jan 2005 – Jun 2006 | Tashkent, Uzbekistan
 - Developed vector-matrix notation and its algebra for simplified representation and calculation of scalar equations
 - Published three articles related to scientific work in journals
 
+### Software Engineering Teacher at Education Center of National University of Uzbekistan
+Jan 2004 - Aug 2004 | Tashkent, Uzbekistan
+- Taught "Introduction to C++" course
+- Taught "Microsoft Visual C++ MFC" course
+
 ## Education
 
 ### Master in Mechanics and Mathematics at National University of Uzbekistan
