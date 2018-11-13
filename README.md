@@ -37,7 +37,10 @@ Mar 2011 – May 2011 | Austria
 
 ### Scientist and Software Engineer at National University of Uzbekistan
 Jan 2005 – Jun 2006 | Tashkent, Uzbekistan
-
+- Researched problems of equilibrium and stabilization of mechanical systems, as part of scientific group, funded by government scientific grant
+- Developed programming module, using Maple math engine, which automates analysis of equilibrium of mechanical systems
+- Developed vector-matrix notation and its algebra for simplified representation and calculation of scalar equations
+- Published three articles related to scientific work in journals
 
 ## Education
 
