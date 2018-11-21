@@ -28,6 +28,15 @@ Jan 2008 – Mar 2008 | Tashkent, Uzbekistan
 
 ### Senior Software Engineer at Engineering Networks, LLC
 Aug 2004 – Dec 2007 | Tashkent, Uzbekistan
+- Cost estimation desktop application for construction projects:
+  - Designed markup XML-based notation and developed its editor for describing construction works, using C# with .NET Windows Forms
+  - Developed tool for government construction standards migration from Excel format to internal SQL Server database using C#
+  - Completely designed, implemented and supported the lite version of application for construction contractors, using Borland Delphi with InterBase for data store and Excel for reporting
+- Cost estimation desktop application for reconstruction projects of central heating pipe networks:
+  - Completely designed, implemented and supported, using C# with .NET Windows Forms for user interface and Excel for reporting
+  - Integrated with 3rd party application file format for cost calculation
+- Customer management desktop application:
+  - Completely designed, implemented and supported, using Borland C++ Builder with Word/Excel for reporting
 
 ### Software Engineer at ABL Soft & Security Systems, LLC
 Sep 2003 – Jul 2004 | Tashkent, Uzbekistan
@@ -41,7 +50,7 @@ Sep 2003 – Jul 2004 | Tashkent, Uzbekistan
 ### Software Engineer (Remote) at PreisWilli
 Feb 2011 – May 2012 | Austria
 - Inventory management desktop application for small retail business:
-  - Designed and implemented completely in multiple iterations as a single developer using .NET Windows Forms for UI, SQL Server/Entity Framework for data management, Excel for reporting and Visual Studio Installer for distribution
+  - Completely designed, implemented and supported in multiple iterations as a single developer, using C# with .NET Windows Forms for UI, SQL Server/Entity Framework for data management, Excel for reporting and Visual Studio Installer for distribution
   - Implemented user's scenarios for data backup, restoring and sharing among multiple desktops
   - Implemented database patching framework using stored procedures to support multiple schema updates and backward compatibility
 
