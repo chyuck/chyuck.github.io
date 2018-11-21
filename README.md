@@ -31,6 +31,12 @@ Aug 2004 – Dec 2007 | Tashkent, Uzbekistan
 
 ### Software Engineer at ABL Soft & Security Systems, LLC
 Sep 2003 – Jul 2004 | Tashkent, Uzbekistan
+- Video conferencing desktop application:
+  - Implemented module for capturing/playing user's voice and integrated it with network module, using C++, Windows API and DirectX Sound
+  - Implemented multi-user whiteboard with realtime collaboration and integrated it with network module, using Borland C++ Builder, Windows API and Windows GDI+
+- Alarm monitoring desktop application:
+  - Developed user interface for configuring alarm detectors on floor plan, using Borland C++ Builder and Windows API
+  - Developed module for room recognition on floor plan image, using C++ and Windows GDI+
 
 ### Software Engineer (Remote) at PreisWilli
 Feb 2011 – May 2012 | Austria
