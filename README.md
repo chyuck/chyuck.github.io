@@ -32,10 +32,10 @@ Aug 2004 – Dec 2007 | Tashkent, Uzbekistan
 ### Software Engineer at ABL Soft & Security Systems, LLC
 Sep 2003 – Jul 2004 | Tashkent, Uzbekistan
 
-### Remote Software Engineer at PreisWilli
+### Software Engineer (Remote) at PreisWilli
 Feb 2011 – May 2012 | Austria
 - Inventory management desktop application for small retail business:
-  - Designed and implemented in multiple iterations as a single developer using .NET Windows Forms for UI, SQL Server/Entity Framework for data management, Excel for reporting and Visual Studio Installer for distribution
+  - Designed and implemented completely in multiple iterations as a single developer using .NET Windows Forms for UI, SQL Server/Entity Framework for data management, Excel for reporting and Visual Studio Installer for distribution
   - Implemented user's scenarios for data backup, restoring and sharing among multiple desktops
   - Implemented database patching framework using stored procedures to support multiple schema updates and backward compatibility
 
@@ -44,12 +44,12 @@ Jan 2005 – Jun 2006 | Tashkent, Uzbekistan
 - Researched problems of equilibrium and stabilization of mechanical systems, as part of scientific group, funded by government scientific grant
 - Developed programming module, using Maple math engine, which automates analysis of equilibrium of mechanical systems
 - Developed vector-matrix notation and its algebra for simplified representation and calculation of scalar equations
-- Published three articles related to scientific work in journals
+- Published three articles, related to scientific work, in journals
 
 ### Software Engineering Teacher at Education Center of National University of Uzbekistan
 Jan 2004 - Aug 2004 | Tashkent, Uzbekistan
-- Taught "Introduction to C++" course
-- Taught "Microsoft Visual C++ MFC" course
+- Taught "Introduction to C++" course for students individually
+- Taught "Microsoft Visual C++ MFC" course for students individually
 
 
 ## Education
