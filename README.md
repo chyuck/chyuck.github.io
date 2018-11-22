@@ -25,6 +25,11 @@ May 2008 – Oct 2009 | Tashkent, Uzbekistan
 
 ### Senior Software Engineer at Invenology Inc.
 Jan 2008 – Mar 2008 | Tashkent, Uzbekistan
+- Warehouse and inventory management system for warehouse service providers:
+  - Added secondary inventory code to all layers of system: updated SQL Server database schema and stored procedures, updated .NET Windows Forms screens and changed business and data access logic using Visual Basic .NET
+  - Optimized search on all list screens by rewriting stored procedures in SQL Server
+  - Reengineered data access layer to enable support of localization using Visual Basic .NET
+  - Developed tool for inserting large amount of random data to SQL Server database for performance testing, using C# and .NET Framework
 
 ### Senior Software Engineer at Engineering Networks, LLC
 Aug 2004 – Dec 2007 | Tashkent, Uzbekistan
@@ -34,7 +39,7 @@ Aug 2004 – Dec 2007 | Tashkent, Uzbekistan
   - Completely designed, implemented and supported the lite version of application for construction contractors, using Borland Delphi with InterBase for data store and Excel for reporting
 - Cost estimation desktop application for reconstruction projects of central heating pipe networks:
   - Completely designed, implemented and supported, using C# with .NET Windows Forms for user interface and Excel for reporting
-  - Integrated with 3rd party application file format for cost calculation
+  - Added export to third-party file format for cost calculation
 - Customer management desktop application:
   - Completely designed, implemented and supported, using Borland C++ Builder with Word/Excel for reporting
 
