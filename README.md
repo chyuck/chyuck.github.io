@@ -22,6 +22,14 @@ Oct 2009 – Mar 2012 | Moscow, Russia
 
 ### Senior Software Engineer and Team Lead at Smart Solutions, LLC
 May 2008 – Oct 2009 | Tashkent, Uzbekistan
+- Visual warehouse management desktop application:
+  - Leaded development process for a team of three developers and one QA
+  - Implemented generic data access layer which uses SQL Server or XML files as data store, using C#
+  - Implemented warehouse visual editor prototype for setting up aisles, sections and pallets, using C# with .NET WPF
+- Distributed kiosk system for sausage manufacturing plant:
+  - Gathered requirement from client, designed architecture, leaded development and installed/supported system on-site
+  - Implemented server component and integrated it with 1C:Enterprise ERP system through COM interface, using C# with .NET WCF
+  - Implemented invoice printing for touchscreen kiosk at retail warehouse, using C# with Excel
 
 ### Senior Software Engineer at Invenology Inc.
 Jan 2008 – Mar 2008 | Tashkent, Uzbekistan
@@ -35,7 +43,7 @@ Jan 2008 – Mar 2008 | Tashkent, Uzbekistan
 Aug 2004 – Dec 2007 | Tashkent, Uzbekistan
 - Cost estimation desktop application for construction projects:
   - Designed markup XML-based notation and developed its editor for describing construction works, using C# with .NET Windows Forms
-  - Developed tool for government construction standards migration from Excel format to internal SQL Server database using C#
+  - Developed tool for government construction standards migration from Excel format to internal SQL Server database, using C#
   - Completely designed, implemented and supported the lite version of application for construction contractors, using Borland Delphi with InterBase for data store and Excel for reporting
 - Cost estimation desktop application for reconstruction projects of central heating pipe networks:
   - Completely designed, implemented and supported, using C# with .NET Windows Forms for user interface and Excel for reporting
