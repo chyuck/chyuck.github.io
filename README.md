@@ -30,6 +30,10 @@ May 2008 – Oct 2009 | Tashkent, Uzbekistan
   - Gathered requirement from client, designed architecture, leaded development and installed/supported system on-site
   - Implemented server component and integrated it with 1C:Enterprise ERP system through COM interface, using C# with .NET WCF
   - Implemented invoice printing for touchscreen kiosk at retail warehouse, using C# with Excel
+- "Zelo Water" sparkling water website:
+  - Implemented animated website prototype, using C# with Silverlight
+- Realtime dashboard for "La-Z-Boy" furniture manufacturing plant:
+  - Implemented logic for mapping data to UI, using C# with .NET WPF  
 
 ### Senior Software Engineer at Invenology Inc.
 Jan 2008 – Mar 2008 | Tashkent, Uzbekistan
