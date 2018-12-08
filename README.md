@@ -9,9 +9,6 @@
 ## Summary
 
 
-## Skills
-
-
 ## Experience
 
 ### Principal Software Engineer, Architect and Team Lead at Agero Inc.
@@ -19,6 +16,11 @@ Mar 2012 – Present | Medford, MA
 
 ### Senior Software Engineer at CustIS, LLC
 Oct 2009 – Mar 2012 | Moscow, Russia
+- Retail management system for sport goods retail chain
+   - Worked as software engineer in a self-contained cross-functional Scrum team for 3-tier architecture product, using C#/ASP.NET/WCF/WinForms and PLSQL/Oracle
+   - Played active role in development, deployment and production support processes
+   - Decoupled business logic from data access ORM layer to allow complete mocking and unit testing, which leaded to better test coverage and faster continuous integration process
+   - Developed tool for stress testing, using C#/.NET and JetBrains TeamCity
 
 ### Senior Software Engineer and Team Lead at Smart Solutions, LLC
 May 2008 – Oct 2009 | Tashkent, Uzbekistan
@@ -30,10 +32,10 @@ May 2008 – Oct 2009 | Tashkent, Uzbekistan
   - Gathered requirement from client, designed architecture, leaded development and installed/supported system on-site
   - Implemented server component and integrated it with 1C:Enterprise ERP system through COM interface, using C# with .NET WCF
   - Implemented invoice printing for touchscreen kiosk at retail warehouse, using C# with Excel
-- "Zelo Water" sparkling water website:
-  - Implemented animated website prototype, using C# with Silverlight
-- Realtime dashboard for "La-Z-Boy" furniture manufacturing plant:
-  - Implemented logic for mapping data to UI, using C# with .NET WPF  
+- Sparkling water manufacturer's website:
+  - Implemented animated website prototype, using C# with Silverlight and JavaScript/HTML/CSS
+- Realtime dashboard for furniture manufacturing plant:
+  - Implemented logic for periodic mapping data to UI, using C# with .NET WPF  
 
 ### Senior Software Engineer at Invenology Inc.
 Jan 2008 – Mar 2008 | Tashkent, Uzbekistan
@@ -82,6 +84,9 @@ Jan 2005 – Jun 2006 | Tashkent, Uzbekistan
 Jan 2004 - Aug 2004 | Tashkent, Uzbekistan
 - Taught "Introduction to C++" course for students individually
 - Taught "Microsoft Visual C++ MFC" course for students individually
+
+
+## Skills
 
 
 ## Education
