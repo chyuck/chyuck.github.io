@@ -11,7 +11,7 @@
 
 ## Technologies
 - .NET: C#, .NET Framework/Core, ASP.NET Web API, WCF, WPF, WinForms
-- Databases: SQL, Oracle, MongoDB, DynamoDB, SQL Server, PostgreSQL
+- Databases: SQL, Oracle, MongoDB, SQL Server, PostgreSQL
 - AWS: Elastic Beanstalk, EC2, S3, Route53, SQS, SNS, RDS, DynamoDB, Lambda, API Gateway, Cloud Formation
 - Web: Angular, Bootstrap
 
