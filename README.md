@@ -14,6 +14,8 @@
 - Databases: SQL, Oracle, MongoDB, SQL Server, PostgreSQL
 - AWS: Elastic Beanstalk, EC2, S3, Route53, SQS, SNS, RDS, DynamoDB, Lambda, API Gateway, Cloud Formation
 - Web: Angular, Bootstrap
+- Source Control: Git, GitHub, TFS, SVN
+- IDE: Visual Studio, JetBrains ReSharper/Rider/DataGrip/WebStorm/IDEA
 
 
 ## Experience
