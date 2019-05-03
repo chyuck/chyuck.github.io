@@ -21,7 +21,7 @@ Mar 2012 – Present | Medford, MA
   - Designed backward compatibility with call center platform and integrated with company's public APIs for major clients
 - Roadside assistance call center platform (Mar 2012 - Aug 2015):
   - Worked as software engineer on distributed platform which consists of client running on more than 3K desktops and multiple backend services, using C#/WinForms/ASP.NET/WCF and Oracle
-  - Developed several major and many small features from client's requirements
+  - Developed several major features from client's requirements
   - Implemented more than 10 common micro-services by decoupling logic from monolith application
   - Introduced dependency injection and unit testing in desktop client's codebase
 - Development frameworks, tools and processes:
