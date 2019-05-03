@@ -9,6 +9,13 @@
 ## Summary
 
 
+## Technologies
+- .NET: C#, .NET Framework/Core, ASP.NET Web API, WCF, WPF, WinForms
+- Databases: SQL, Oracle, MongoDB, DynamoDB, SQL Server, PostgreSQL
+- AWS: Elastic Beanstalk, EC2, S3, Route53, SQS, SNS, RDS, DynamoDB, Lambda, API Gateway, Cloud Formation
+- Web: Angular, Bootstrap
+
+
 ## Experience
 
 ### Principal Software Engineer, Architect, Team Lead and Software Manager at Agero Inc.
@@ -27,7 +34,7 @@ Mar 2012 – Present | Medford, MA
 - Development frameworks, tools and processes:
   - Designed and implemented tool for distributed deployment of major call center desktop application (more than 3K desktops), using C#/ASP.NET, MongoDB, Angular and AWS
   - Open-sourced more than 10 common .NET Core/Framework libraries using GitHub and NuGet
-  - Designed API-driven CI/CD pipeline for Docker applications running on AWS Fargate
+  - Designed API-driven CI/CD pipeline for applications running on AWS
 - Designed and implemented back-end of internal website for configuring call center telecom channels, using Scala/Play Framework and SQL Server
 
 ### Senior Software Engineer at CustIS, LLC
@@ -100,9 +107,6 @@ Jan 2005 – Jun 2006 | Tashkent, Uzbekistan
 Jan 2004 - Aug 2004 | Tashkent, Uzbekistan
 - Taught "Introduction to C++" course for students individually
 - Taught "Microsoft Visual C++ MFC" course for students individually
-
-
-## Skills
 
 
 ## Education
