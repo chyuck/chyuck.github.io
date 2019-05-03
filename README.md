@@ -1,5 +1,5 @@
 ## Andrey Sergeev
-**Principal Software Engineer | Architect | Team Lead**
+**Principal Software Engineer | Architect | Team Lead | Software Manager**
 - **Location**: Stoneham, MA
 - **Email**: [andrey@chyuck.com](mailto:andrey@chyuck.com)
 - **Resume**: [https://chyuck.github.io](https://chyuck.github.io)
@@ -11,12 +11,28 @@
 
 ## Experience
 
-### Principal Software Engineer, Architect and Team Lead at Agero Inc.
+### Principal Software Engineer, Architect, Team Lead and Software Manager at Agero Inc.
 Mar 2012 – Present | Medford, MA
+- Roadside assistance automation platform (Aug 2015 - Present):
+  - Leaded product roadmap, architecture and development lifecycle for a Scrum team of 8 people since inception
+  - The platform completely automated human work in call centers for more than 1.5M (>20%) roadside assistance dispatches annually
+  - The platform helped the company to save more than $10M annually
+  - Designed and implemented critical parts of the platform, which contains around 10 micro-services, using C#/ASP.NET, MongoDB/DynamoDB/Oracle and AWS
+  - Designed backward compatibility with call center platform and integrated with company's public APIs for major clients
+- Roadside assistance call center platform (Mar 2012 - Aug 2015):
+  - Worked as software engineer on distributed platform which consists of client running on more than 3K desktops and multiple backend services, using C#/WinForms/ASP.NET/WCF and Oracle
+  - Developed several major and many small features from client's requirements
+  - Implemented more than 10 common micro-services by decoupling logic from monolith application
+  - Introduced dependency injection and unit testing in desktop client's codebase
+- Development frameworks, tools and processes:
+  - Designed and implemented tool for distributed deployment of major call center desktop application (more than 3K desktops), using C#/ASP.NET, MongoDB, Angular and AWS
+  - Open-sourced more than 10 common .NET Core/Framework libraries using GitHub and NuGet
+  - Designed API-driven CI/CD pipeline for Docker applications running on AWS Fargate
+- Designed and implemented back-end of internal website for configuring call center telecom channels, using Scala/Play Framework and SQL Server
 
 ### Senior Software Engineer at CustIS, LLC
 Oct 2009 – Mar 2012 | Moscow, Russia
-- Retail management system for sport goods retail chain
+- Retail management system for sport goods retail chain:
    - Worked as software engineer in a self-contained cross-functional Scrum team for 3-tier architecture product, using C#/ASP.NET/WCF/WinForms and PLSQL/Oracle
    - Played active role in development, deployment and production support processes
    - Decoupled business logic from data access ORM layer to allow complete mocking and unit testing, which leaded to better test coverage and faster continuous integration process
