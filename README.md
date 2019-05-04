@@ -7,16 +7,27 @@
 
 
 ## Summary
+- 15+ years of software engineering experience
+- Strong coding, refactoring, design and analytical skills
+- Strong engagement and leadership skills
+- Strong planning, reporting and presentation skills
+- Strong communication and collaboration skills
+- Experience in managing product backlogs and development lifecycle
+- Experience in multiple business domains
+- Experience in multiple software architectures and technology stacks
+- Experience in managing and leading software development teams
 
 
-## Technologies
+## Skills
 - .NET: C#, .NET Framework/Core, ASP.NET, WCF, WPF, WinForms
 - Databases: SQL, Oracle, MongoDB, SQL Server, PostgreSQL
 - AWS: Elastic Beanstalk, EC2, S3, Route53, SQS, SNS, RDS, DynamoDB, Lambda, API Gateway, Cloud Formation
-- Web: Angular, Bootstrap
-- Source Control: Git, GitHub, TFS, SVN
-- IDE: Visual Studio, JetBrains ReSharper/Rider/DataGrip/WebStorm/IntelliJ IDEA
+- Source Controls: Git, GitHub, TFS, SVN
+- IDEs: Visual Studio, JetBrains ReSharper/Rider/DataGrip/WebStorm/IntelliJ IDEA
 - Operating Systems: Windows, MacOS, Linux, iOS, Android
+- Development Tools: Splunk, Apigee, MediaWiki, Azure DevOps, TeamCity, NuGet
+- Agile: Scrum, Kanban, Extreme Programming (XP)
+- Basic Experience: JavaScript/TypeScript (Angular, Bootstrap, jQuery, Node.js), Java/Scala (Play Framework, Spring Framework, Android), Swift (iOS)
 
 
 ## Experience
@@ -35,6 +46,7 @@ Mar 2012 – Present | Medford, MA
   - Implemented more than 10 common micro-services by decoupling logic from monolith system
   - Introduced dependency injection and unit testing in desktop client's codebase
   - Refactored/reengineered multiple parts of the system on client and server sides
+  - Developed address resolution WinForms controls library for call center desktop applications, using C#/WinForms and Google Map
 - Development frameworks, tools and processes:
   - Designed and implemented web tool for distributed deployment of major call center desktop application (more than 3K desktops), using C#/ASP.NET, MongoDB, Angular and AWS
   - Open-sourced more than 10 common .NET Core/Framework libraries using GitHub and NuGet
@@ -88,7 +100,7 @@ Aug 2004 – Dec 2007 | Tashkent, Uzbekistan
 Sep 2003 – Jul 2004 | Tashkent, Uzbekistan
 - Video conferencing desktop application:
   - Implemented module for capturing/playing user's voice and integrated it with network module, using C++, Windows API and DirectX Sound
-  - Implemented multi-user whiteboard with realtime collaboration and integrated it with network module, using Borland C++ Builder, Windows API and Windows GDI+
+  - Implemented multi-user whiteboard with real-time collaboration and integrated it with network module, using Borland C++ Builder, Windows API and Windows GDI+
 - Alarm monitoring desktop application:
   - Developed user interface for configuring alarm detectors on floor plan, using Borland C++ Builder and Windows API
   - Developed module for room recognition on floor plan image, using C++ and Windows GDI+
