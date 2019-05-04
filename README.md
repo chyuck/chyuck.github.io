@@ -8,7 +8,7 @@
 
 ## Summary
 - 15+ years of software engineering experience
-- Strong coding, refactoring, design and analytical skills
+- Strong coding, refactoring, documentation, design and analytical skills
 - Strong engagement and leadership skills
 - Strong planning, reporting and presentation skills
 - Strong communication and collaboration skills
