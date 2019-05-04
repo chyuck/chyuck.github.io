@@ -46,7 +46,7 @@ Mar 2012 – Present | Medford, MA
   - Implemented more than 10 common micro-services by decoupling logic from monolith system
   - Introduced dependency injection and unit testing in desktop client's codebase
   - Refactored/reengineered multiple parts of the system on client and server sides
-  - Developed address resolution WinForms controls library for call center desktop applications, using C#/WinForms and Google Map
+  - Developed address resolution WinForms controls library and integrated it to call center desktop applications, using C#/WinForms and Google Map
 - Development frameworks, tools and processes:
   - Designed and implemented web tool for distributed deployment of major call center desktop application (more than 3K desktops), using C#/ASP.NET, MongoDB, Angular and AWS
   - Open-sourced more than 10 common .NET Core/Framework libraries using GitHub and NuGet
