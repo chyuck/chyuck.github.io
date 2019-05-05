@@ -2,7 +2,7 @@
 **Principal Software Engineer | Architect | Team Lead | Software Manager**
 - **Location**: Stoneham, MA
 - **Email**: [andrey@chyuck.com](mailto:andrey@chyuck.com)
-- **Resume**: [https://chyuck.github.io](https://chyuck.github.io)
+- **Resume**: [http://chyuck.com](http://chyuck.com)
 - **LinkedIn**: [https://www.linkedin.com/in/chyuck/](https://www.linkedin.com/in/chyuck/)
 
 
