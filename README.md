@@ -1,5 +1,5 @@
 ## Andrey Sergeev
-**Principal Software Engineer | Architect | Team Lead | Software Manager**
+**Principal Software Engineer | Architect | Team Lead | Manager**
 - **Location**: Stoneham, MA
 - **Email**: [andrey@chyuck.com](mailto:andrey@chyuck.com)
 - **Resume**: [http://chyuck.com](http://chyuck.com)
