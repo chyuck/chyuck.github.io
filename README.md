@@ -20,14 +20,15 @@
 
 ## Skills
 - .NET: C#, .NET Framework/Core, ASP.NET, WCF, WPF, WinForms
+- JavaScript: Node.js, React, Angular
 - Databases: SQL, Oracle, MongoDB, SQL Server, PostgreSQL
-- AWS: Elastic Beanstalk, EC2, S3, Route53, SQS, SNS, RDS, DynamoDB, Lambda, API Gateway, Cloud Formation
+- AWS: Lambda, DynamoDB, API Gateway, Cloud Formation, Serverless, Elastic Beanstalk, EC2, S3, Route53, SQS, SNS, RDS, ECS
 - Source Controls: Git, GitHub, TFS, SVN
-- IDEs: Visual Studio, JetBrains ReSharper/Rider/DataGrip/WebStorm/IntelliJ IDEA
+- IDEs: Visual Studio Code, Visual Studio, JetBrains ReSharper/Rider/DataGrip/WebStorm/IntelliJ IDEA, Xcode
 - Operating Systems: Windows, MacOS, Linux, iOS, Android
-- Development Tools: Splunk, Apigee, MediaWiki, Azure DevOps, TeamCity, NuGet
+- Development Tools: Splunk, Apigee, MediaWiki, Azure DevOps, TeamCity
 - Agile: Scrum, Kanban, Extreme Programming (XP)
-- Basic Experience: JavaScript/TypeScript (Angular, Bootstrap, jQuery, Node.js), Java/Scala (Play Framework, Spring Framework, Android), Swift (iOS)
+- Basic Experience: Java/Scala (Spring Framework, Play Framework, Android), Swift (iOS)
 
 
 ## Experience
