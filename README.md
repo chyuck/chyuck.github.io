@@ -63,7 +63,7 @@ Oct 2009 – Mar 2012 | Moscow, Russia
    - Developed tool for stress testing, using C#/.NET and JetBrains TeamCity
 
 ### Senior Software Engineer and Team Lead at Smart Solutions, LLC
-May 2008 – Oct 2009 | Tashkent, Uzbekistan
+Apr 2008 – Oct 2009 | Tashkent, Uzbekistan
 - Visual warehouse management desktop application:
   - Leaded development process for a team of three developers and one QA
   - Implemented generic data access layer which uses SQL Server or XML files as data store, using C#
@@ -78,7 +78,7 @@ May 2008 – Oct 2009 | Tashkent, Uzbekistan
   - Implemented logic for periodic mapping data to UI, using C# with .NET WPF  
 
 ### Senior Software Engineer at Invenology Inc.
-Jan 2008 – Mar 2008 | Tashkent, Uzbekistan
+Jan 2008 – Apr 2008 | Tashkent, Uzbekistan
 - Warehouse and inventory management system for warehouse service providers:
   - Added secondary inventory code to all layers of system: updated SQL Server database schema and stored procedures, updated .NET Windows Forms screens and changed business and data access logic using Visual Basic .NET
   - Optimized search on all list screens by rewriting stored procedures in SQL Server
