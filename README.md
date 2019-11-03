@@ -34,7 +34,7 @@
 ## Experience
 
 ### Principal Software Engineer, Architect, Team Lead and Software Manager at Agero Inc.
-Mar 2012 – Present | Medford, MA
+Mar 2012 – Nov 2019 | Medford, MA
 - Roadside assistance automation platform (Aug 2015 - Present):
   - Leaded product roadmap, architecture and development lifecycle for a Scrum team of 8 people since inception
   - The platform completely automated human work in call centers for more than 1.5M (>20%) roadside assistance dispatches annually
