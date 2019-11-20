@@ -33,6 +33,9 @@
 
 ## Experience
 
+### Senior Software Engineer at CarGurus Inc.
+Nov 2019 - Present | Cambridge, MA
+
 ### Principal Software Engineer, Architect, Team Lead and Software Manager at Agero Inc.
 Mar 2012 – Nov 2019 | Medford, MA
 - Roadside assistance automation platform (Aug 2015 - Present):
