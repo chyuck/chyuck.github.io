@@ -143,6 +143,7 @@ Aug 1999 – Jul 2003 | Tashkent, Uzbekistan
 
 
 ## Certificates
+- Git: Branches, Merges, and Remotes by LinkedIn (Dec 2019)
 - OWASP by Security Innovation (Nov 2018)
 - [Professional Scrum Master I](https://www.scrum.org/user/318902) by Scrum.org (Feb 2018)
 - [AWS Certified Developer](http://ude.my/UC-IJFFBB63) by Udemy (Nov 2016)
