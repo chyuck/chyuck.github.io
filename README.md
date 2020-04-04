@@ -35,6 +35,7 @@
 
 ### Senior Software Engineer at CarGurus Inc.
 Nov 2019 - Present | Cambridge, MA
+- [Real-time Performance Marketing](https://products.cargurus.com/rpm/)
 
 ### Principal Software Engineer, Architect, Team Lead and Software Manager at Agero Inc.
 Mar 2012 – Nov 2019 | Medford, MA
