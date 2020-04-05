@@ -19,22 +19,28 @@
 
 
 ## Skills
+- Java: Spring Framework, Hibernate
 - .NET: C#, .NET Framework/Core, ASP.NET, WCF, WPF, WinForms
-- JavaScript: Node.js, React, Angular
-- Databases: SQL, Oracle, MongoDB, SQL Server, PostgreSQL
+- JavaScript: Node.js, ReactJS, Angular
+- Databases: SQL, Oracle, MongoDB, MySQL, SQL Server, PostgreSQL, Snowflake
 - AWS: Lambda, DynamoDB, API Gateway, Cloud Formation, Serverless, Elastic Beanstalk, EC2, S3, Route53, SQS, SNS, RDS, ECS
 - Source Controls: Git, GitHub, TFS, SVN
-- IDEs: Visual Studio Code, Visual Studio, JetBrains ReSharper/Rider/DataGrip/WebStorm/IntelliJ IDEA, Xcode
-- Operating Systems: Windows, MacOS, Linux, iOS, Android
-- Development Tools: Splunk, Apigee, MediaWiki, Azure DevOps, TeamCity
+- IDEs: JetBrains IntelliJ IDEA/ReSharper/Rider/DataGrip/WebStorm, Visual Studio Code, Visual Studio, Xcode
+- Operating Systems: MacOS, Windows, Linux, iOS, Android
+- Development Tools: Confluence, Jira, Jenkins, Splunk, Apigee, MediaWiki, Azure DevOps, TeamCity, Rundeck, Grafana, Sentry, Looker, BrowserStack
 - Agile: Scrum, Kanban, Extreme Programming (XP)
-- Basic Experience: Java/Scala (Spring Framework, Play Framework, Android), Swift (iOS)
+- Basic Experience: Scala (Play Framework), Java (Android), Swift (iOS)
 
 
 ## Experience
 
 ### Senior Software Engineer at CarGurus Inc.
 Nov 2019 - Present | Cambridge, MA
+- [Real-time Performance Marketing](https://products.cargurus.com/rpm/)
+  - Worked as software engineer in dealer's digital marketing team using Java/Spring, JavaScript/TypeScript/ReactJS and MySQL/MongoDB/Snowflake
+  - Played active role in development, deployment and production support processes for [CarGurus](https://cargurus.com) website
+  - Designed and implemented periodic malware scanning solution for display ad landing pages, using Java/Spring, Docker, MySQL and Snowflake, which utilizes third party malware scanning SaaS through REST API
+  
 
 ### Principal Software Engineer, Architect, Team Lead and Software Manager at Agero Inc.
 Mar 2012 – Nov 2019 | Medford, MA
