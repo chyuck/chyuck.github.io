@@ -36,6 +36,10 @@
 ### Senior Software Engineer at CarGurus Inc.
 Nov 2019 - Present | Cambridge, MA
 - [Real-time Performance Marketing](https://products.cargurus.com/rpm/)
+  - Worked as software engineer in dealer's digital marketing team using Java/Spring, JavaScript/TypeScript/ReactJS and MySQL/MongoDB
+  - Played active role in development, deployment and production support processes for [CarGurus](https://cargurus.com) website
+  - Designed and implemented periodic malware scanning solution for display ad landing page URLs, using Java/Spring, Docker, MySQL and Snowflake, which utilizes third party malware scanning SaaS through REST API
+  
 
 ### Principal Software Engineer, Architect, Team Lead and Software Manager at Agero Inc.
 Mar 2012 – Nov 2019 | Medford, MA
