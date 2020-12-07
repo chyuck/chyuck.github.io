@@ -38,9 +38,9 @@
 Nov 2019 - Present | Cambridge, MA
 - [Real-time Performance Marketing](https://products.cargurus.com/rpm/)
   - Worked as software engineer in dealer's digital marketing team using Java/Spring, JavaScript/TypeScript/ReactJS and MySQL/MongoDB/Snowflake
-  - Played active role in development, deployment and production support processes for [CarGurus](https://cargurus.com) website
+  - Played active role in design, development, deployment and production support processes for [CarGurus](https://cargurus.com) website
   - Designed and implemented periodic malware scanning solution for display ad landing pages, using Java/Spring, Docker, MySQL and Snowflake, which utilizes third party malware scanning SaaS through REST API
-  
+  - Leaded, redesigned and reimplemented intregration with Facebook through REST API for managing display ad campaigns, which automated/optimized business processes and made system more scallable (over 1000 campaigns).
 
 ### Principal Software Engineer, Architect, Team Lead and Software Manager at Agero Inc.
 Mar 2012 – Nov 2019 | Medford, MA
