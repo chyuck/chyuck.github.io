@@ -149,6 +149,7 @@ Aug 1999 – Jul 2003 | Tashkent, Uzbekistan
 
 
 ## Certificates
+- Accessibility for Web Design by LinkedIn (May 2021)
 - Database Clinic: Neo4J by LinkedIn (May 2020)
 - Git: Branches, Merges, and Remotes by LinkedIn (Dec 2019)
 - OWASP by Security Innovation (Nov 2018)
