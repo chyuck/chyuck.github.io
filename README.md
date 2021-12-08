@@ -21,13 +21,13 @@
 ## Skills
 - Java: Spring Framework, Hibernate
 - .NET: C#, .NET Framework/Core, ASP.NET, WCF, WPF, WinForms
-- JavaScript: Node.js, ReactJS, Angular
-- Databases: SQL, Oracle, MongoDB, MySQL, SQL Server, PostgreSQL, Snowflake
+- JavaScript: Node.js, ReactJS
+- Databases: SQL, MySQL, Oracle, MongoDB, SQL Server, PostgreSQL, Snowflake
 - AWS: Lambda, DynamoDB, API Gateway, Cloud Formation, Serverless, Elastic Beanstalk, EC2, S3, Route53, SQS, SNS, RDS, ECS
 - Source Controls: Git, GitHub, TFS, SVN
 - IDEs: JetBrains IntelliJ IDEA/ReSharper/Rider/DataGrip/WebStorm, Visual Studio Code, Visual Studio, Xcode
 - Operating Systems: MacOS, Windows, Linux, iOS, Android
-- Development Tools: Confluence, Jira, Jenkins, Splunk, Apigee, MediaWiki, Azure DevOps, TeamCity, Rundeck, Grafana, Sentry, Looker, BrowserStack
+- Development Tools: Confluence, Jira, Jenkins, Splunk, Apigee, MediaWiki, Azure DevOps, TeamCity, Rundeck, Grafana, Sentry, Looker, BrowserStack, Concourse
 - Agile: Scrum, Kanban, Extreme Programming (XP)
 - Basic Experience: Scala (Play Framework), Java (Android), Swift (iOS)
 
@@ -41,6 +41,8 @@ Nov 2019 - Present | Cambridge, MA
   - Played active role in design, development, deployment and production support processes for [CarGurus](https://cargurus.com) website
   - Designed and implemented periodic malware scanning solution for display ad landing pages, using Java/Spring, Docker, MySQL and Snowflake, which utilizes third party malware scanning SaaS through REST API
   - Leaded, redesigned and reimplemented integration with Facebook through REST API for managing display ad campaigns, which automated/optimized business processes and made system more scalable (over 1000 campaigns)
+- Car inventory system reengineering
+  - Redesigned and relocated to microservices, multiple use cases, related to car metadata and car inventory data domains
 
 ### Principal Software Engineer, Architect, Team Lead and Software Manager at Agero Inc.
 Mar 2012 – Nov 2019 | Medford, MA
