@@ -151,6 +151,7 @@ Aug 1999 – Jul 2003 | Tashkent, Uzbekistan
 
 
 ## Certificates
+- Train the Trainer by LinkedIn (June 2022)
 - Accessibility for Web Design by LinkedIn (May 2021)
 - Database Clinic: Neo4J by LinkedIn (May 2020)
 - Git: Branches, Merges, and Remotes by LinkedIn (Dec 2019)
