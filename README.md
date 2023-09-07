@@ -33,7 +33,7 @@
 
 ## Experience
 
-### Software Architect at CarGurus Inc.
+### Principal Software Engineer, Software Architect at CarGurus Inc.
 Nov 2019 - Present | Cambridge, MA
 - [Real-time Performance Marketing](https://products.cargurus.com/rpm/)
   - Worked as software engineer in dealer's digital marketing team using Java/Spring, JavaScript/TypeScript/ReactJS and MySQL/MongoDB/Snowflake
@@ -42,6 +42,10 @@ Nov 2019 - Present | Cambridge, MA
   - Leaded, redesigned and reimplemented integration with Facebook through REST API for managing display ad campaigns, which automated/optimized business processes and made system more scalable (over 1000 campaigns)
 - Car inventory system reengineering
   - Redesigned and relocated to microservices, multiple use cases, related to car metadata and car inventory data domains
+- Certified Pre-Owned (CPO) system reengenering
+  - Redesigned and decoupled into microservice with new requirement to support multiple CPO tiers per certifier
+- Trim Matching system reengineering
+  - Redesigned and decoupled into microservice with the goal to improve quality, simplicity, auditability and cost efficiency
 
 ### Principal Software Engineer, Architect, Team Lead and Software Manager at Agero Inc.
 Mar 2012 – Nov 2019 | Medford, MA
